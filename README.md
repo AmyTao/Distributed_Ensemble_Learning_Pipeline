@@ -1,4 +1,4 @@
-# Ensemble_Learning_Model_
+# Ensemble_Learning_Model
 
 # Supervisors:
 
