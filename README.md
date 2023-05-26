@@ -95,7 +95,7 @@ Distributed ensemble learning aims to use the “wisdom of crowd” to achieve b
         
         Diversity between two base learners:
         
-        ![30511679293058_.pic.jpg](Ensemble_Learning_Model_README%20d515bb0a8ebd47a2992806804514843c/30511679293058_.pic.jpg)
+        ![30511679293058_.pic.jpg](pic/30511679293058_.pic.jpg)
         
         (Kuncheva L I, Whitaker C J. Measures of diversity in classifier ensembles and their relationship with the ensemble accuracy. Machine learning, vol. 51, no. 2, pp.181-207, 2003.)
         
@@ -104,7 +104,7 @@ Distributed ensemble learning aims to use the “wisdom of crowd” to achieve b
         1. A symmetric matrix consists of diversities between any pairs of base_learners
         2. MSE (mean square error) of the ensemble
         
-        ![30521679293495_.pic.jpg](Ensemble_Learning_Model_README%20d515bb0a8ebd47a2992806804514843c/30521679293495_.pic.jpg)
+        ![30521679293495_.pic.jpg](pic/30521679293495_.pic.jpg)
         
     
     (Ko, AH-R., Robert Sabourin, and A. de Souza Britto, Combining diversity and classification accuracy for ensemble selection in random subspaces, IEEE International Joint Conference on Neural Network Proceedings, 2006.)
@@ -265,10 +265,10 @@ Epoch: 10000
 
 1. Example of training logs of model
 
-![30541679341496_.pic.jpg](Ensemble_Learning_Model_README%20d515bb0a8ebd47a2992806804514843c/30541679341496_.pic.jpg)
+![pic/30541679341496_.pic.jpg](pic/30541679341496_.pic.jpg)
 
-![30551679341513_.pic.jpg](Ensemble_Learning_Model_README%20d515bb0a8ebd47a2992806804514843c/30551679341513_.pic.jpg)
+![pic/30551679341513_.pic.jpg](pic/30551679341513_.pic.jpg)
 
 1. Example of diversity matrix and MSE square
     
-    ![30561679341868_.pic.jpg](Ensemble_Learning_Model_README%20d515bb0a8ebd47a2992806804514843c/30561679341868_.pic.jpg)
+    ![pic/30561679341868_.pic.jpg](pic/30561679341868_.pic.jpg)
