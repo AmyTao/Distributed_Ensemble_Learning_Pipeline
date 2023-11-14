@@ -1,16 +1,63 @@
 # Ensemble_Learning_Model
 
-# Supervisors:
-
-Chao Huang
-
-Department of Computer Science
-
-The University of California, Davis
-
-Pengchao Han
-
-NCEL Lab in the Chinese University of Hong Kong, Shenzhen
+## Project Structure
+```
+Distributed_Ensemble_Learning
+├── config.py
+├── dataset_data_files
+│   ├── SVHN
+│   ├── cifar-10-batches-py
+│   │   ├── batches.meta
+│   │   ├── data_batch_1
+│   │   ├── data_batch_2
+│   │   ├── data_batch_3
+│   │   ├── data_batch_4
+│   │   ├── data_batch_5
+│   │   └── test_batch
+│   └── cifar-100-python
+│       ├── meta
+│       ├── test
+│       └── train
+├── datasets
+│   ├── __pycache__
+│   ├── dataset.py
+│   ├── dataset_enhanced.py
+│   └── test.py
+├── model_records
+├── models
+│   ├── __pycache__
+│   ├── cnn_cifar10.py
+│   ├── cnn_mnist.py
+│   ├── get_model.py
+│   ├── lenet.py
+│   ├── model.py
+│   ├── resnet.py
+│   └── wresnet.py
+├── read_div_file.py
+├── results
+├── simulation_CL.py
+├── simulation_del.py
+├── simulation_del_diversity_test_data_size.py
+├── simulation_del_diversity_test_epoch.py
+├── simultation_DF.py
+├── statistic
+│   ├── collect_stat.py
+│   
+└── util
+    ├
+    ├── draw_boundary 2.py
+    ├── draw_boundary.py
+    ├── language_utils 2.py
+    ├── language_utils.py
+    ├── min_norm_solvers 2.py
+    ├── min_norm_solvers.py
+    ├── sampling 2.py
+    ├── sampling.py
+    ├── utils 2.py
+    ├── utils.py
+    ├── voting 2.py
+    └── voting.py
+```
 
 # 1.  Problem description
 
