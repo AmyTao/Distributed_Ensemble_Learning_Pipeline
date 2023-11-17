@@ -1,4 +1,4 @@
-# Ensemble_Learning_Model
+# Ensemble Learning Piepline Implementation
 
 ## Project Structure
 ```
